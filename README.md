@@ -1,4 +1,4 @@
-# FAERS analysis of GLP-1 receptor agonists and pancreatitis reporting
+# Temporal reporting shifts in pharmacovigilance: analysis code
 
 Analysis code for the manuscript by Balidemaj F and Burleigh S on pancreatitis reporting with GLP-1 receptor agonists in FAERS (submitted to BMC Gastroenterology: "Temporal shifts in pancreatitis reporting with GLP-1 receptor agonists: active-comparator disproportionality analyses and machine-learning report prioritization in FAERS").
 
