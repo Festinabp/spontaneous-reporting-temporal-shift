@@ -1,0 +1,9 @@
+# Python 3.13.9
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+scikit-learn==1.8.0
+matplotlib==3.10.6
+# R 4.5.3 with openEBGM 0.10.0 is needed for 03_run_openebgm.R:
+#   install.packages("remotes"); remotes::install_version("openEBGM", version = "0.10.0")
+#   (optional: install.packages("data.table") makes reading the large input file faster)
