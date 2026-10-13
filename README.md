@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33382776/README.md)
 # Temporal reporting shifts in pharmacovigilance: analysis code
 
 Analysis code for the manuscript by Balidemaj F and Burleigh S on pancreatitis reporting with GLP-1 receptor agonists in FAERS (submitted to BMC Gastroenterology: "Temporal shifts in pancreatitis reporting with GLP-1 receptor agonists: active-comparator disproportionality analyses and machine-learning report prioritization in FAERS").
